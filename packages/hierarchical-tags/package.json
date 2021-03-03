@@ -1,9 +1,9 @@
 {
-  "name": "swagger-ui-plugin-hierarchical-tags",
-  "version": "1.0.0",
+  "name": "@kael-shipman/swagger-ui-plugin-hierarchical-tags",
+  "version": "1.0.0-rc1",
   "description": "Display endpoints grouped into a hierarchy based on delimited tag names",
   "author": "Kael Shipman<kael.shipman@gmail.com>",
-  "homepage": "https://github.com/shockey/swagger-ui-plugins#readme",
+  "homepage": "https://github.com/kael-shipman/swagger-ui-plugins#readme",
   "license": "MIT",
   "main": "build/index.js",
   "directories": {
@@ -15,7 +15,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/shockey/swagger-ui-plugins.git"
+    "url": "git+https://github.com/kael-shipman/swagger-ui-plugins.git"
   },
   "scripts": {
     "start": "npx http-server example/",
@@ -24,7 +24,7 @@
     "test": "echo \"Error: run tests from root\" && exit 1"
   },
   "bugs": {
-    "url": "https://github.com/shockey/swagger-ui-plugins/issues"
+    "url": "https://github.com/kael-shipman/swagger-ui-plugins/issues"
   },
   "devDependencies": {
     "@babel/cli": "^7.12.10",
